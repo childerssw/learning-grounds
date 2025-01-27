@@ -9,6 +9,8 @@ def check_swaps(puzzle: list[int]) -> bool:
     
     return (swaps % 2) == 0
 
+# This comment was added in my local repository
+
 def show_puzzle(puzzle: list[list[int]]):
     line = "- " * (3 * len(puzzle) + 1)
     print(line)
