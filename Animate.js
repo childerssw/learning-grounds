@@ -19,6 +19,8 @@ var FSHADER_SOURCE =
   '  gl_FragColor = vColor;\n' +
   '}\n';
 
+//This comment was added directly on GitHub.com
+
 // Setup the colors for the points
 var colorData = [1.0, 1.0, 1.0, 1.0,  //White
                  0.0, 0.0, 1.0, 1.0,  //Blue
